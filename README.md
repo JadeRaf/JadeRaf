@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🧬 I am a scientist interested in using genomics to gain insights into disease 🧬
+
 <!--
 **JadeRaf/JadeRaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
